@@ -1,12 +1,7 @@
 # books
 Books I've read.
 
-## The art of unix programming
-- super neat introduction to _why_ unix programming matters
-- often a bit dry
-- without context sometimes difficult to plow through
-- essential reading if you do anything with computers
-- probably makes you a better human in the process
+## East of Eden 
 
 ## Advanced programming in the Unix environment [in progress]
 - describes a whole lot essential concepts in the unix system
@@ -19,6 +14,10 @@ Books I've read.
 - "the humans" - Matt Haig
 
 ## See Also
-- [awesome scifi](https://github.com/sindresorhus/awesome-scifi) - long list of scifi classics
-- [worrydreams/refs](http://worrydream.com/refs/)
-- [yarchive.net](http://yarchive.net/home.html)
+- [awesome scifi][1] - long list of scifi classics
+- [worrydreams/refs][2]
+- [yarchive.net][3]
+
+[1]:	https://github.com/sindresorhus/awesome-scifi
+[2]:	http://worrydream.com/refs/
+[3]:	http://yarchive.net/home.html
